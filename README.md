@@ -27,6 +27,6 @@ proje icin gereken python kütüphaneleri
 
 >![3](https://user-images.githubusercontent.com/68020295/90291319-51f2b300-de88-11ea-80c6-8486b4a55f90.PNG)
 
-**Dördüncü Adım :
+**Dördüncü Adım :**
 
 >![4](https://user-images.githubusercontent.com/68020295/90291322-54eda380-de88-11ea-8040-dbdecc70b8d1.PNG)
